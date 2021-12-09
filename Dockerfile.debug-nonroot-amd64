@@ -1,0 +1,2 @@
+# Tags: debug-nonroot-amd64
+FROM gcr.io/distroless/cc:debug-nonroot-amd64
