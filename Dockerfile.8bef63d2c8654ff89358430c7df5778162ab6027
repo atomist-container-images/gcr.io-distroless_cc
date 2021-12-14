@@ -1,4 +1,0 @@
-# Tags:  8bef63d2c8654ff89358430c7df5778162ab6027, c9115ffeeeae0a89ba0c9531b27fdc661add9445, de7f1306895f22d4a4d2fab59d723178c7121937
-FROM gcr.io/distroless/cc:8bef63d2c8654ff89358430c7df5778162ab6027
-FROM gcr.io/distroless/cc:c9115ffeeeae0a89ba0c9531b27fdc661add9445
-FROM gcr.io/distroless/cc:de7f1306895f22d4a4d2fab59d723178c7121937
